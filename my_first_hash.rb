@@ -1,4 +1,5 @@
-def my_hash = {"Key" => "value"}
+def my_hash
+  your_hash = {"key" => "value"}
 
 
 end
