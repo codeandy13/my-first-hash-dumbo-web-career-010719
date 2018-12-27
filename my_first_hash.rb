@@ -37,5 +37,5 @@ shipping_manifest = {"powder" => 4}
 
 
   # return the shipping_manifest hash below
-return shipping_manifest
+return shipping_manifest{"oil paintings"}
 end
