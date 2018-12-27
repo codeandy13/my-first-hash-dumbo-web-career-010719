@@ -37,5 +37,5 @@ shipping_manifest = ["gun powder" => 4]
 
 
   # return the shipping_manifest hash below
-return adding[shipping_manifest]
+return adding[]
 end
